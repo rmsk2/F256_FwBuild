@@ -18,3 +18,5 @@ the latest "official" firmware release which can be found
 [here](https://github.com/FoenixRetro/f256-firmware/releases/download/release-2023.5/f256_firmware_2023.5.zip).
 After that the new firmware can be flashed. I have not done a lot of testing, but after flashing the output of these scripts to
 the machine it still boots and can execute BASIC programs. `pexec` and the BASIC help system also seem to work.
+
+The build instructions for the repos have been copied from [here](https://github.com/FoenixRetro/f256-firmware/blob/main/.justfile).
