@@ -13,7 +13,7 @@ install at least
 In order to build the latest firmware for the F256 Jr. and K you have to clone this repo, change into the 
 new directory and run the script `clone_f256.sh`. If that succeeded run the script `buildfw_f256.sh`. If
 that succeeds you will find all the necessary files to flash the latest firmware of your Foenix 256 in 
-the `bin` directory. All the files in this directory have to be copied into the `firware` directory of
+the `bin` directory. All the files in this directory have to be copied into the `firmware` directory of
 the latest "official" firmware release which can be found 
 [here](https://github.com/FoenixRetro/f256-firmware/releases/download/release-2023.5/f256_firmware_2023.5.zip).
 After that the new firmware can be flashed. I have not done a lot of testing, but after flashing the output of these scripts to
