@@ -19,4 +19,5 @@ the latest "official" firmware release which can be found
 After that the new firmware can be flashed. I have not done a lot of testing, but after flashing the output of these scripts to
 the machine it still boots and can execute BASIC programs. `pexec` and the BASIC help system also seem to work.
 
-The build instructions for the repos have been copied from [here](https://github.com/FoenixRetro/f256-firmware/blob/main/.justfile).
+The build instructions for the repos have been copied from [here](https://github.com/FoenixRetro/f256-firmware/blob/main/.justfile). The
+release contains a prebuilt set of `bin` files in the file ` f256_firmware_2024.1_mgr42.zip`.
