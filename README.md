@@ -3,10 +3,10 @@
 In order to use this script you need a Linux machine (I used a stock debian 12). On this machine you have to 
 install at least
 
-- `python-is-python3` SuperBasic expects to call the python interprester as `python`
+- `python-is-python3` SuperBasic expects to call the python interpreter as `python`
 - `64tass`, which can be downloaded here: https://sourceforge.net/projects/tass64/. In order to build it you need an installed `gcc`
 - `Merlin32`, which can be downloaded here: https://github.com/lroathe/merlin32 . This is a source repo. You will need `gcc` to build Merlin32
-- `cc65`, See here https://github.com/cc65/cc65
+- `cc65`, See here https://github.com/cc65/cc65. You also have to build this from source.
 - `zip`, which is not part of the standard install
 
 
